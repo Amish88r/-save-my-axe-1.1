@@ -1,0 +1,14 @@
+/Users/amish88r/RiderProjects/CourseManagementSystem/CourseManagementSystem/obj/Debug/net9.0/CourseManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+/Users/amish88r/RiderProjects/CourseManagementSystem/CourseManagementSystem/obj/Debug/net9.0/CourseManagementSystem.AssemblyInfoInputs.cache
+/Users/amish88r/RiderProjects/CourseManagementSystem/CourseManagementSystem/obj/Debug/net9.0/CourseManagementSystem.AssemblyInfo.cs
+/Users/amish88r/RiderProjects/CourseManagementSystem/CourseManagementSystem/obj/Debug/net9.0/CourseManagementSystem.csproj.CoreCompileInputs.cache
+/Users/amish88r/RiderProjects/CourseManagementSystem/CourseManagementSystem/bin/Debug/net9.0/CourseManagementSystem
+/Users/amish88r/RiderProjects/CourseManagementSystem/CourseManagementSystem/bin/Debug/net9.0/CourseManagementSystem.deps.json
+/Users/amish88r/RiderProjects/CourseManagementSystem/CourseManagementSystem/bin/Debug/net9.0/CourseManagementSystem.runtimeconfig.json
+/Users/amish88r/RiderProjects/CourseManagementSystem/CourseManagementSystem/bin/Debug/net9.0/CourseManagementSystem.dll
+/Users/amish88r/RiderProjects/CourseManagementSystem/CourseManagementSystem/bin/Debug/net9.0/CourseManagementSystem.pdb
+/Users/amish88r/RiderProjects/CourseManagementSystem/CourseManagementSystem/obj/Debug/net9.0/CourseManagementSystem.dll
+/Users/amish88r/RiderProjects/CourseManagementSystem/CourseManagementSystem/obj/Debug/net9.0/refint/CourseManagementSystem.dll
+/Users/amish88r/RiderProjects/CourseManagementSystem/CourseManagementSystem/obj/Debug/net9.0/CourseManagementSystem.pdb
+/Users/amish88r/RiderProjects/CourseManagementSystem/CourseManagementSystem/obj/Debug/net9.0/CourseManagementSystem.genruntimeconfig.cache
+/Users/amish88r/RiderProjects/CourseManagementSystem/CourseManagementSystem/obj/Debug/net9.0/ref/CourseManagementSystem.dll
